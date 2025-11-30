@@ -1,0 +1,4 @@
+# Uploads Directory
+This folder stores uploaded files (images, documents, etc.)
+
+Keep this file to ensure the directory is tracked by git.
